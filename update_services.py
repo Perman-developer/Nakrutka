@@ -2,10 +2,7 @@ import requests
 import json
 import time
 import datetime
-
-# API kalit va URL
-API_KEY = "40c36957cb467a9bb469610a026a7461"
-API_URL = "https://topsmm.uz/api/v2"
+from config import API_KEY, API_URL
 
 def update_services_from_api():
     """API dan xizmatlarni yuklab JSON faylga saqlash"""
