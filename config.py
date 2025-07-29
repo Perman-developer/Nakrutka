@@ -1,1 +1,3 @@
 TOKEN = "8296804254:AAG7eQw5wOENQV_odbW4u9PyBXtb9dw4KV8"
+API_KEY = "f1d110c70a4ad782e036f12d2c447b96"
+API_URL = "https://topsmm.uz/api/v2"
